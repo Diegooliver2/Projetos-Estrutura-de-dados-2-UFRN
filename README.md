@@ -1,1 +1,1 @@
-# Projetos-Estrutura-de-dados-2-UFRN
+# Projetos da disciplina Estrutura de Dados 2 - UFRN
